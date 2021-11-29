@@ -12,10 +12,10 @@ body {
     text-align: right;
 }
 
-.header img {
+.header__image {
     width: 100%;
 }
-.header .main__link {
+.header .header__link {
     font-family: fantasy, cursive;
 }
 
